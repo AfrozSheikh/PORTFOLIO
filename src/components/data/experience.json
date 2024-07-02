@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "role": "FrontEnd Developer",
+    "organisation": "Prodigy Infotech",
+    "startDate": "Nov, 2023",
+    "endDate": "Dec, 2023",
+    "location": "Aurangabad",
+    "experiences": [
+      "Worked on frontend projects"
+    ],
+    "imageSrc": "company/google.png"
+  }
+]
