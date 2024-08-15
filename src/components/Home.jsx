@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from "react";
-import pdf from "../pdf/resume.pdf";
+import pdf from "../pdf/Afroz_Sheikh.pdf";
 
 import Typed from "typed.js";
 import myimage from "../assets2/myimage.jpeg"
